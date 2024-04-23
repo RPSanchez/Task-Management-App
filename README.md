@@ -13,3 +13,6 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 Please note that the project does not (and is not intended to) create a production build at this time.
+
+You can view a preview of the current code here:
+https://task-management-app-sigma.vercel.app/
